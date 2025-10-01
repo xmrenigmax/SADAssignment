@@ -1,35 +1,47 @@
-# System Analysis & Design Assessment
+# 📌 System Analysis & Design Assessment  
 
-**100% Group Project**
+**100% Group Project**  
 
+---
 
-## **Group Members + Roles**
-| Individual | Role |
-|--------|------------------|
-| Riley | Member |
-| Daut  | Member |
+## 👥 Group Members & Roles  
+
+| Name   | Role   |
+|--------|--------|
+| Riley  | Member |
+| Daut   | Member |
 | Rohail | Member |
-| Ryan  | Member |
+| Ryan   | Member |
 | Oliver | Member |
 
-## Volere Workflow Process
-- Analysis of Case Study
-- Extraction of Requirements
-- Implement System Architecture
-- Smarten Up Documentation & Code
-- Use of SysML Modelling 
+---
 
+## 🔄 Volere Workflow Process  
+Our project follows the **Volere requirements process**, ensuring systematic analysis, design, and documentation:  
 
-# Main Tasks
-| Task Name | Content of Tasks |
-|-----------|------------------|
-| Project blastoff | (Project Driver, Project Constraints, Product Issues, Scope of project, Confirmation of goals, Risks and Costs, Stakeholders) |
-| Trawling for Requiremenets | Extraction of Non-Functional & Functional Requirements and use cases for requirements |
-| Prototyping | Quick Sketches & Designs, SysML, UML, BPMN |
-| Writing Up Requirements | requirement specification through snow card |
-| Quality Gateway | Teamwork for quality assurance to check compromises of requirement analysist and tester |
-| Reusing Requirements**: use of iterative or incrememental methodology (agile, waterfall) for workflow
-- **Adaption of Requirements**: natural requiremens evolve through changes and refinement of technical details. adaptive requirements evolve through changes that happen to the environement
+1. **Analysis of Case Study** – Understanding the given scenario  
+2. **Extraction of Requirements** – Identifying functional & non-functional requirements  
+3. **System Architecture** – Designing the overall system structure  
+4. **Documentation & Code Refinement** – Ensuring clarity and maintainability  
+5. **SysML Modelling** – Using modelling techniques for system representation  
 
+---
 
+## 📂 Main Tasks  
 
+| Task Name | Description |
+|-----------|-------------|
+| **Project Blastoff** | Define project drivers, constraints, product issues, scope, confirmation of goals, risks & costs, and stakeholders |
+| **Trawling for Requirements** | Extract non-functional & functional requirements, and capture use cases |
+| **Prototyping** | Create sketches, SysML, UML, and BPMN diagrams to visualize the system |
+| **Writing Requirements** | Formalize requirements using snow cards |
+| **Quality Gateway** | Conduct team-based quality assurance to ensure requirements meet stakeholder needs and testing standards |
+| **Reusing Requirements** | Apply iterative or incremental methodologies (Agile, Waterfall) to refine workflow |
+| **Adapting Requirements** | Manage evolving requirements due to technical refinements or environmental changes |
+
+---
+
+## ✅ Key Notes  
+- Requirements will **evolve iteratively**, adapting to technical and environmental changes  
+- Emphasis on **quality, collaboration, and maintainability** throughout the project  
+- Both **Agile and Waterfall approaches** may be referenced where appropriate  
